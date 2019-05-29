@@ -1,0 +1,9 @@
+C:\Users\giorg\Desktop\555\4-5\4-5\bin\Release\4-5.exe.config
+C:\Users\giorg\Desktop\555\4-5\4-5\bin\Release\4-5.exe
+C:\Users\giorg\Desktop\555\4-5\4-5\bin\Release\4-5.pdb
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Release\_4_5.Form1.resources
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Release\_4_5.Properties.Resources.resources
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Release\4-5.csproj.GenerateResource.Cache
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Release\4-5.csproj.CoreCompileInputs.cache
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Release\4-5.exe
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Release\4-5.pdb

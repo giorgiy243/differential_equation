@@ -1,0 +1,38 @@
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\obj\Debug\4-5.csprojResolveAssemblyReference.cache
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\obj\Debug\_4_5.Form1.resources
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\obj\Debug\_4_5.Properties.Resources.resources
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\obj\Debug\4-5.csproj.GenerateResource.Cache
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\obj\Debug\4-5.csproj.CoreCompileInputs.cache
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\bin\Debug\4-5.exe.config
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\bin\Debug\4-5.exe
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\bin\Debug\4-5.pdb
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\obj\Debug\4-5.exe
+C:\Users\giorg\Desktop\Мочалов\4-5\4-5\obj\Debug\4-5.pdb
+H:\лаба_моч_2\4-5\4-5\bin\Debug\4-5.exe.config
+H:\лаба_моч_2\4-5\4-5\obj\Debug\4-5.exe
+H:\лаба_моч_2\4-5\4-5\obj\Debug\4-5.pdb
+H:\лаба_моч_2\4-5\4-5\bin\Debug\4-5.exe
+H:\лаба_моч_2\4-5\4-5\bin\Debug\4-5.pdb
+H:\лаба_моч_2\4-5\4-5\obj\Debug\4-5.csprojResolveAssemblyReference.cache
+H:\лаба_моч_2\4-5\4-5\obj\Debug\_4_5.Form1.resources
+H:\лаба_моч_2\4-5\4-5\obj\Debug\_4_5.Properties.Resources.resources
+H:\лаба_моч_2\4-5\4-5\obj\Debug\4-5.csproj.GenerateResource.Cache
+C:\Users\giorg\Desktop\555\4-5\4-5\bin\Debug\4-5.exe.config
+C:\Users\giorg\Desktop\555\4-5\4-5\bin\Debug\4-5.exe
+C:\Users\giorg\Desktop\555\4-5\4-5\bin\Debug\4-5.pdb
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Debug\_4_5.Form1.resources
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Debug\_4_5.Properties.Resources.resources
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Debug\4-5.csproj.GenerateResource.Cache
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Debug\4-5.csproj.CoreCompileInputs.cache
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Debug\4-5.exe
+C:\Users\giorg\Desktop\555\4-5\4-5\obj\Debug\4-5.pdb
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\bin\Debug\4-5.exe.config
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\bin\Debug\4-5.exe
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\bin\Debug\4-5.pdb
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\obj\Debug\4-5.csprojAssemblyReference.cache
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\obj\Debug\_4_5.Form1.resources
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\obj\Debug\_4_5.Properties.Resources.resources
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\obj\Debug\4-5.csproj.GenerateResource.cache
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\obj\Debug\4-5.csproj.CoreCompileInputs.cache
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\obj\Debug\4-5.exe
+D:\ж.д\Универ\Выч. сист. и пар. обр 3-47\лаба_моч_2\4-5\4-5\obj\Debug\4-5.pdb
